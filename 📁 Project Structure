@@ -1,0 +1,18 @@
+bawariya-samaj-react/
+├─ package.json
+├─ index.html
+├─ vite.config.js
+├─ public/
+│  └─ logo.svg
+├─ src/
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  ├─ styles.css
+│  ├─ firebase.js
+│  ├─ components/
+│  │  ├─ SafeNotice.jsx
+│  │  ├─ PhoneEmailAuth.jsx
+│  │  ├─ ProfileForm.jsx
+│  │  ├─ AdminBroadcast.jsx
+│  │  └─ MemberIDCard.jsx
+└─ README.md
